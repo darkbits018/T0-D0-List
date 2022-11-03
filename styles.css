@@ -83,3 +83,20 @@ input {
     font-size: 16px;
 }
 
+.btn {
+    padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+}
+
+.btn:hover {
+    background-color: #bbb;
+}
+
